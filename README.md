@@ -21,4 +21,8 @@ projectId: “————————“,
 storageBucket: "fir-c9b1d.appspot.com",
 messagingSenderId: "387353492656" 
 
-3. Run as it is, no other changes reqd in code. 
+
+3. Bootstrap, material libraries, and firestore libraries should be installed..... 
+
+
+4. Run as it is, no other changes reqd in code. 
