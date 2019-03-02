@@ -21,3 +21,4 @@ projectId: “————————“,
 storageBucket: "fir-c9b1d.appspot.com",
 messagingSenderId: "387353492656" 
 
+3. Run as it is, no other changes reqd in code. 
