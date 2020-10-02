@@ -1,4 +1,4 @@
-# studmgmtportalFIREBASE
+# student-management-portal
 CRUD application for managing student data.
 
 steps - 
